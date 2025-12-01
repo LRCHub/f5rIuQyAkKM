@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ハーモニー feat. 原口沙輔, 初音ミク",
+  "base_artist": "椎乃味醂",
+  "createdAt": "2025-12-01T12:44:18.888101Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハーモニー・デイ",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/01_ハーモニー・デイ_Morfonica.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハーモニー・デイ -instrumental-",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/02_ハーモニー・デイ_-instrumental-_Morfonica.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハーモニー",
+      "artist": "t e l e p a t h テレパシー能力者",
+      "has_synced": false,
+      "path": "select/03_ハーモニー_t_e_l_e_p_a_t_h_テレパシー能力者.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハーモニー",
+      "artist": "My Little Lover",
+      "has_synced": true,
+      "path": "select/04_ハーモニー_My_Little_Lover.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハーモニー",
+      "artist": "原田知世",
+      "has_synced": false,
+      "path": "select/05_ハーモニー_原田知世.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハーモニー・デイ - Harmony Day",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/06_ハーモニー・デイ_-_Harmony_Day_Morfonica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハーモニー",
+      "artist": "My Little Lover",
+      "has_synced": false,
+      "path": "select/07_ハーモニー_My_Little_Lover.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HARMONY",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_01_HARMONY_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Harmony",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_02_Harmony_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Harmony",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_03_Harmony_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "HARMONY",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_04_HARMONY_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Harmony of December",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_05_Harmony_of_December_Little_Glee_Monster.txt"
+    }
+  ]
+}
